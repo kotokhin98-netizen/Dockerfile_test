@@ -2,5 +2,5 @@
 Dockerfile
 
 ## [DBeaver](/DBeaver/)
-## [PgAdmin](/PgAdmin/)
+## [PgAdmin](/postgres-pgadmin/)
 ## [PgAdminer](/PgAdminer/)
