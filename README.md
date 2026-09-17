@@ -3,4 +3,4 @@ Dockerfile
 
 ## [DBeaver](/DBeaver/)
 ## [PgAdmin](/postgres-pgadmin/)
-## [PgAdminer](/PgAdminer/)
+## [PgAdminer](/postgres-adminer/)
